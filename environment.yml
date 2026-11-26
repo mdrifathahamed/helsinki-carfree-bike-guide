@@ -1,0 +1,13 @@
+name: carfree-bike-guide
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - geopandas>=1.0
+  - pyogrio
+  - pandas
+  - numpy
+  - folium>=0.17
+  - xyzservices
+  - jinja2
+  - jupyterlab
